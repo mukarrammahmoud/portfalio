@@ -2,7 +2,7 @@
   "name": "portfolio",
   "homepage": "https://mukarrammahmoud.github.io/portfalio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
